@@ -114,7 +114,7 @@ mvn clean install
 java -jar target/checkZipCode.jar
 ```
 
-📩 Contributions
+## 📩 Contributions
 
 If you want to contribute with improvements:
 ```
@@ -159,7 +159,7 @@ Encerrando o programa...
 
 ```
 
-🎖️ Credits
+## 🎖️ Credits
 
 Developed by Guilherme Freitas.
 
